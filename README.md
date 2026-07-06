@@ -99,21 +99,6 @@ Instead, an **executed Jupyter Notebook** is provided that contains:
 
 Researchers can reproduce these experiments after downloading the HCP dataset and preprocessing it using the official HCP pipelines.
 
----
-
-# Repository Structure
-
-
-├── temp_iq.py
-├── similarity_and_hybrid_based_iq_prediction.py
-├── ablation_studies.py
-├── Temporal data.rar
-├── Spatial data.rar
-├── hcp_hybrid.ipynb
-├── requirements.txt
-└── README.md
-
----
 
 # Running the Experiments
 
